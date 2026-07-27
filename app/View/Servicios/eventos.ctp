@@ -275,9 +275,29 @@ for ($i = 0; $i < 60; $i++) {
 										id="tipo_comida_view"></span></td>
 							</tr>
 							<tr id="comisiones_container_view" style="display: none;">
-								<td><b>Monto Total: </b><span id="monto_total_view"></span></td>
-								<td><b>Total Comisión Generada: </b><span id="comision_generada_view"></span></td>
-								<td></td>
+								<td colspan="3">
+									<div style="margin-top: 10px; border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-radius: 4px; color: black; max-width: 500px;">
+										<h5 style="margin-top:0; margin-bottom: 10px;">Desglose de Comisión</h5>
+										<table style="width: 100%;">
+											<tr>
+												<td><b>Monto Total:</b></td>
+												<td style="text-align: right;"><span id="monto_total_view"></span></td>
+											</tr>
+											<tr>
+												<td><b>% de Comisión (12%):</b></td>
+												<td style="text-align: right;"><span id="comision_base_view"></span></td>
+											</tr>
+											<tr>
+												<td><b>IVA de la Comisión (16%):</b></td>
+												<td style="text-align: right;"><span id="comision_iva_view"></span></td>
+											</tr>
+											<tr style="border-top: 1px solid #ddd; font-weight: bold;">
+												<td><b>Total Comisión Generada:</b></td>
+												<td style="text-align: right;"><span id="comision_generada_view"></span></td>
+											</tr>
+										</table>
+									</div>
+								</td>
 							</tr>
 						</table>
 						<table id="quotationTableView_1" style="width: 100%" class="table-striped">
@@ -496,9 +516,15 @@ for ($i = 0; $i < 60; $i++) {
 				}
 				const comisionesContainer = document.getElementById('comisiones_container_view');
 				if (comisionesContainer) {
-					if (html.Servicio.monto_total) {
-						document.getElementById('monto_total_view').innerHTML = "$" + parseFloat(html.Servicio.monto_total).toLocaleString('es-MX', {minimumFractionDigits: 2, maximumFractionDigits: 2});
-						document.getElementById('comision_generada_view').innerHTML = "$" + parseFloat(html.Servicio.comision_generada).toLocaleString('es-MX', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+					if (html.Establecimiento && html.Establecimiento.tipo == 3) {
+						var mt = parseFloat(html.Servicio.monto_total) || 0;
+						var base = mt * 0.12;
+						var iva = base * 0.16;
+						var total = mt * 0.12 * 1.16;
+						document.getElementById('monto_total_view').innerHTML = "$" + mt.toLocaleString('es-MX', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+						document.getElementById('comision_base_view').innerHTML = "$" + base.toLocaleString('es-MX', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+						document.getElementById('comision_iva_view').innerHTML = "$" + iva.toLocaleString('es-MX', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+						document.getElementById('comision_generada_view').innerHTML = "$" + total.toLocaleString('es-MX', {minimumFractionDigits: 2, maximumFractionDigits: 2});
 						comisionesContainer.style.display = '';
 					} else {
 						comisionesContainer.style.display = 'none';
