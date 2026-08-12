@@ -105,7 +105,7 @@ class ProductosController extends AppController
 
 	public function buscar($categoria_id = null)
 	{
-		$certificados = array(1 => 'Parve', 2 => 'Carne', 3 => 'Lácteo', 4 => 'Parve Mehadrin', 5 => 'Carne Mehadrin', 6 => 'Lácteo Mehadrin', 7 => 'Jalab Israel Mehadrín', 8 => 'Parve Mehadrín D.E.');
+		$certificados = array(1 => 'Parve', 2 => 'Carne', 3 => 'Lácteo', 4 => 'Parve Mehadrin', 5 => 'Carne Mehadrin', 6 => 'Lácteo Mehadrin', 7 => 'Jalab Israel Mehadrín', 8 => 'Parve Mehadrín D.E.', 9 => 'Parve con equipo lácteo');
 		$this->Producto->Behaviors->load('Containable');
 
 		$this->loadModel('RestriccionesMarca');
