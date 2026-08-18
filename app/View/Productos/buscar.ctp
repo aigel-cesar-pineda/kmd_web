@@ -1,5 +1,5 @@
 <?php
-$certificados_all = array(1 => 'Parve', 2 => 'Carne', 3 => 'Lácteo', 4 => 'Parve', 5 => 'Carne', 6 => 'Lácteo', 7 => 'Jalab Israel', 8 => 'Parve', 9 => 'Parve con equipo lácteo');
+$certificados_all = array(1 => 'Parve', 2 => 'Carne', 3 => 'Lácteo', 4 => 'Parve', 5 => 'Carne', 6 => 'Lácteo', 7 => 'Jalab Israel', 8 => 'Parve', 9 => 'Equipo lácteo');
 echo $this->Html->css(
 	array('Productos'),
 	array('inline' => false)
