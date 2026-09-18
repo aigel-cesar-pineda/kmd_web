@@ -73,13 +73,11 @@ $usos = array(
 );
 
 $clasificacion = array(
-	'Parve Mehadrin' => 'Parve Mehadrin',
-	'Jalav Israel' => 'Jalav Israel',
-	'Carne Mehadrin' => 'Carne Mehadrin',
-	'Lácteo' => 'Lácteo',
-	'Carne Parve' => 'Carne Parve',
-	'01 Cintas' => '01 Cintas',
-	'02 Cintas' => '02 Cintas',
+	'Parve' => 'Parve',
+	'Carne' => 'Carne',
+	'Lácteo Jalab Israel' => 'Lácteo Jalab Israel',
+	'Lácteo Jalab Stam' => 'Lácteo Jalab Stam',
+	'Revisar de Tolaim' => 'Revisar de Tolaim'
 );
 
 ?>
@@ -160,7 +158,8 @@ $clasificacion = array(
 										<option value="">Seleccionar tipo de etiqueta</option>
 										<?php foreach ($tipos_etiquetas as $tipo): ?>
 											<option value="<?= $tipo['name'] ?>" data-precio="<?= $tipo['precio'] ?>">
-												<?= $tipo['name'] ?></option>
+												<?= $tipo['name'] ?>
+											</option>
 										<?php endforeach; ?>
 									</select>
 								</td>
@@ -363,7 +362,8 @@ $clasificacion = array(
 										<td><?= $solicitud['Creado']['nombre'] . " " . $solicitud['Creado']['apellido_paterno'] . " " . $solicitud['Creado']['apellido_materno'] ?>
 										</td>
 										<td style="text-align: center">
-											<?= $solicitud['Servicio']['requiere_factura'] ? "Si" : "No" ?></td>
+											<?= $solicitud['Servicio']['requiere_factura'] ? "Si" : "No" ?>
+										</td>
 										<td style="text-align: center">
 											<?= $solicitud['Servicio']['comprobante'] != "" ? $this->Html->link('<i class="fa fa-eye"></i>', $solicitud['Servicio']['comprobante'], array('escape' => false)) : $this->Html->link('<i class="fa fa-upload"></i>', 'javascript:uploadFile(' . $solicitud['Servicio']['id'] . ',"' . date("ymd", strtotime($solicitud['Servicio']['fecha_solicitud'])) . sprintf($formato, (int) $solicitud['Servicio']['id']) . '")', array('escape' => false)) ?>
 										</td>
@@ -733,7 +733,7 @@ echo $this->Html->script(
 			// Agregar la nueva fila al contenedor
 			$('#cuentas-container').append(newRow);
 		});
-IN (509,514)
+		IN(509, 514)
 		// Función para quitar una fila
 		$(document).on('click', '.remove-row', function (e) {
 			e.preventDefault();

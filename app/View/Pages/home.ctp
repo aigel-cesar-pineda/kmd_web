@@ -17,11 +17,32 @@
 		</div>
 		<div class="u-form u-form-1">
 
-			<?= $this->Form->create('Producto',array('url'=>array('action'=>'buscar','controller'=>'productos'),'type'=>'get'))?>
-			<?= $this->Form->input('search_str',array('value' => $this->request->query('search'),'placeholder'=>'Escribe el nombre, marca o categoría del producto que estás buscando','label'=>false,'div'=>'u-form-group u-form-name u-label-none','class'=>'u-border-2 u-border-black u-custom-font u-heading-font u-input u-input-rectangle u-radius u-input-1'))?>
-			<?= $this->Form->submit('Buscar',array('class'=>'u-active-custom-color-2 u-align-center u-border-none u-btn u-button-style u-custom-color-6 u-hover-custom-color-2 u-btn-1','style'=>'background-color:#f1c50e; color:white'))?>
+			<?= $this->Form->create('Producto',array('id' => 'heroSearchForm', 'url'=>array('action'=>'buscar','controller'=>'productos'),'type'=>'get'))?>
+			<div class="u-form-group u-form-name u-label-none" style="display: flex; flex-direction: row; gap: 10px; margin-bottom: 15px;">
+				<?= $this->Form->input('search_str',array('id' => 'heroSearchQuery', 'value' => $this->request->query('search'),'placeholder'=>'Escribe el nombre, marca o categoría que estás buscando','label'=>false,'div'=>false,'class'=>'u-border-2 u-border-black u-custom-font u-heading-font u-input u-input-rectangle u-radius u-input-1', 'style' => 'flex: 1; margin-bottom: 0;'))?>
+				
+				<select id="heroSearchType" class="u-border-2 u-border-black u-custom-font u-heading-font u-input u-input-rectangle u-radius u-input-1" style="width: auto; margin-bottom: 0; padding: 10px;">
+					<option value="productos">Productos</option>
+					<option value="establecimientos">Establecimientos</option>
+				</select>
+			</div>
+			
+			<?= $this->Form->submit('Buscar',array('class'=>'u-active-custom-color-2 u-align-center u-border-none u-btn u-button-style u-custom-color-6 u-hover-custom-color-2 u-btn-1','style'=>'background-color:#f1c50e; color:white; margin: 0 auto; display: block;'))?>
 			<?= $this->Form->end()?>
 
+			<script>
+				document.getElementById('heroSearchForm').addEventListener('submit', function(e) {
+					e.preventDefault();
+					var type = document.getElementById('heroSearchType').value;
+					var query = document.getElementById('heroSearchQuery').value;
+					
+					if(type === 'productos') {
+						window.location.href = '<?= $this->Html->url(array("controller" => "productos", "action" => "buscar")) ?>?search_str=' + encodeURIComponent(query);
+					} else {
+						window.location.href = '<?= $this->Html->url(array("controller" => "productos", "action" => "establecimientos")) ?>?nombre=' + encodeURIComponent(query);
+					}
+				});
+			</script>
 		</div>
 	</div>
 </section>

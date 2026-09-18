@@ -261,7 +261,7 @@ class ServiciosController extends AppController
 			),
 			9 => array(
 				'name' => 'JUNK BAR CHICO 1 MESA CHICA',
-				'precio' => 2800.00,
+				'precio' => 1500.00,
 				'visibilidad' => 'establecimientos'
 			),
 

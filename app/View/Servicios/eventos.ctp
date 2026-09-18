@@ -516,7 +516,7 @@ for ($i = 0; $i < 60; $i++) {
 				}
 				const comisionesContainer = document.getElementById('comisiones_container_view');
 				if (comisionesContainer) {
-					if (html.Establecimiento && html.Establecimiento.tipo == 3) {
+					if (html.Servicio.monto_total) {
 						var mt = parseFloat(html.Servicio.monto_total) || 0;
 						var base = mt * 0.12;
 						var iva = base * 0.16;
