@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEOjFma.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFqj1ma.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v13/iJWKBXyXfDDVXYnG.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEyjlma.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbEeiVma.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbF6iFma.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbFmi1ma.ttf) format('truetype');
+}
