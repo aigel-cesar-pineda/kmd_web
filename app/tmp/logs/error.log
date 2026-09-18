@@ -718,3 +718,2434 @@ Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
 Stack Trace:
 #0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/css/select2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/css/bootstrap-switch.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/scroller.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/colReorder.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/css/bootstrap-datepicker.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/dataTables.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/css/switchery.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/radio_css/css/radiobox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/checkbox_css/css/checkbox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/loader.gif
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.buttons.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.colReorder.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/jquery.dataTables.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/js/select2.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.responsive.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff2?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.rowReorder.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.colVis.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.html5.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.print.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.scroller.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/moment/js/moment.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/js/bootstrap-datepicker.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/js/bootstrap-switch.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/js/switchery.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:11:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/scroller.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/css/bootstrap-datepicker.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/css/bootstrap-switch.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/css/select2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/colReorder.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/dataTables.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/css/switchery.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/radio_css/css/radiobox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/checkbox_css/css/checkbox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/loader.gif
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/js/select2.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/jquery.dataTables.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.colReorder.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.buttons.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.responsive.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff2?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.rowReorder.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.colVis.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.html5.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.print.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.scroller.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/moment/js/moment.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/js/bootstrap-datepicker.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/js/bootstrap-switch.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:25 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/js/switchery.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/css/select2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/scroller.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/css/bootstrap-switch.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/colReorder.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/dataTables.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/css/bootstrap-datepicker.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/css/switchery.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/radio_css/css/radiobox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/checkbox_css/css/checkbox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/loader.gif
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.colReorder.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/jquery.dataTables.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.buttons.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/js/select2.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.responsive.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff2?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.rowReorder.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.colVis.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.html5.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.print.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.scroller.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/moment/js/moment.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/js/bootstrap-datepicker.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/js/bootstrap-switch.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/js/switchery.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:13:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/sweetalert/css/sweetalert2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/pages/login3.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/Buttons/css/buttons.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/components.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/pages/buttons.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/pages/sweet_alert.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/custom.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/style_hs.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/default_ctp.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/components.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/custom.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/tether.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrapvalidator/js/bootstrapValidator.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/jquery.backstretch/js/jquery.backstretch.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/pages/login3.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:14:19 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/sweetalert/js/sweetalert2.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/css/select2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/dataTables.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/css/bootstrap-switch.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/scroller.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/css/bootstrap-datepicker.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/colReorder.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/css/switchery.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/radio_css/css/radiobox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/checkbox_css/css/checkbox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/loader.gif
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/js/select2.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.buttons.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.colReorder.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/jquery.dataTables.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.responsive.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff2?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.rowReorder.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.colVis.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.html5.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.print.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.scroller.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/moment/js/moment.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/js/bootstrap-datepicker.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/js/bootstrap-switch.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/js/switchery.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:16:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/css/select2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/dataTables.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/css/bootstrap-datepicker.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/colReorder.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/css/bootstrap-switch.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/scroller.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/css/switchery.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/radio_css/css/radiobox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/checkbox_css/css/checkbox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/loader.gif
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/jquery.dataTables.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.buttons.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.colReorder.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/js/select2.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff2?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.responsive.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.rowReorder.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.colVis.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.html5.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.print.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.scroller.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/moment/js/moment.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/js/bootstrap-datepicker.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/js/bootstrap-switch.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/js/switchery.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/scroller.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/css/select2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/css/bootstrap-datepicker.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/dataTables.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/colReorder.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/css/bootstrap-switch.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/css/switchery.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/radio_css/css/radiobox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/checkbox_css/css/checkbox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/loader.gif
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/js/select2.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.buttons.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/jquery.dataTables.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.colReorder.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff2?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.responsive.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:54 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.rowReorder.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.colVis.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.html5.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.print.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.scroller.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/moment/js/moment.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/js/bootstrap-datepicker.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/js/bootstrap-switch.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/js/switchery.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:17:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:18:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:18:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:18:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:21:22 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:21:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:21:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:21:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:21:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:21:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:26:56 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:26:56 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:26:56 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:27:07 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:07 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:07 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:07 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:19 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:19 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:19 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:31 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:31 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:27:31 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:28:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:28:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:28:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:28:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:29:04 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:29:04 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/62032-ca82d06d.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:29:04 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/447031-09d82861.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:29:04 Error: [MissingActionException] Action ProductosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductosController',
+  'action' => 'images',
+)
+Request URL: /productos/images/3002232-b9639f1f.png
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ProductosController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/css/select2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/scroller.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/dataTables.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/css/bootstrap-switch.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/css/bootstrap-datepicker.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/css/colReorder.bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/css/switchery.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/radio_css/css/radiobox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/checkbox_css/css/checkbox.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/loader.gif
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/select2/js/select2.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.buttons.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/jquery.dataTables.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.colReorder.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.responsive.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.rowReorder.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff2?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.colVis.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.html5.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/buttons.print.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datatables/js/dataTables.scroller.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/moment/js/moment.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.woff?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/datepicker/js/bootstrap-datepicker.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrap-switch/js/bootstrap-switch.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/switchery/js/switchery.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:30:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/fonts/fontawesome-webfont.ttf?v=4.7.0
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/pages/login3.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/sweetalert/css/sweetalert2.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/Buttons/css/buttons.min.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/components.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/pages/buttons.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/pages/sweet_alert.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/custom.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/style_hs.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/default_ctp.css
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/components.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/custom.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/tether.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:02 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/bootstrapvalidator/js/bootstrapValidator.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:02 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/jquery.backstretch/js/jquery.backstretch.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/pages/login3.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2026-09-18 05:31:02 Error: [MissingControllerException] Controller class VendorsController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorsController',
+  'plugin' => NULL,
+)
+Request URL: /vendors/sweetalert/js/sweetalert2.min.js
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -70,10 +70,10 @@ class DATABASE_CONFIG
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'db',
+		'host' => 'kmd_db',
 		'login' => 'root',
-		'password' => 'kmd_root_password',
-		'database' => 'kmd',
+		'password' => 'root',
+		'database' => 'kosher1',
 		'encoding' => 'utf8'
 	);
 
